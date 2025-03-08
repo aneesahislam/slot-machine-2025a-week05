@@ -1,0 +1,18 @@
+h1{
+    color: red;
+}
+
+#allSlots{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+#slot1, #slot2, #slot3{
+    text-align: center;
+    padding-left: 25px;
+}
+
+body{
+    text-align: center;
+}
